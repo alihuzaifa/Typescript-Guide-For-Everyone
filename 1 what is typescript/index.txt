@@ -1,0 +1,4 @@
+TypeScript JavaScript ka ek superset hai jo ki Microsoft ne develop kiya tha aur jise October 1, 2012 ko launch kiya gaya tha. TypeScript JavaScript ke features ko extend karta hai aur isme kuch static types aur advanced features add kiye gaye hain jo developers ko JavaScript ki development me help karte hain.
+Iske zariye, developers apne JavaScript code me types (data types) define kar sakte hain jisse code ki consistency, readability aur maintainability improve hoti hai. TypeScript static type checking provide karta hai, jo runtime errors ko kam karta hai aur code quality ko enhance karta hai.
+Conclusion:
+TypeScript kuch nahi simple JavaScript hain magar extra features ke sath
